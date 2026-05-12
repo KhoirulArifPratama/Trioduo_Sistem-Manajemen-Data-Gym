@@ -568,7 +568,7 @@ namespace Sistem_Manajemen_Data_Gym
         txthp.Text = row.Cells["no_hp"].Value.ToString();
         cbstatus.Text = row.Cells["status_aktif"].Value.ToString();
 
-        string idMember = row.Cells["id_member"].Value.ToString();
+        string idMember = row.Cells["id_member"].Value.ToString(); 
     }
 }
 
