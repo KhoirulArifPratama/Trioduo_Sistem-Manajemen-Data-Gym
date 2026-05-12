@@ -492,7 +492,7 @@ namespace Sistem_Manajemen_Data_Gym
             else
             {
                 MessageBox.Show(
-                    "Silakan pilih data terlebih dahulu."
+                    "Silakan pilih data terlebih dahulu." 
                 );
             }
         }
