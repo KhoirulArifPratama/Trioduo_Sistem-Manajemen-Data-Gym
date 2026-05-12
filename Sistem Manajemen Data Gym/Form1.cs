@@ -648,7 +648,7 @@ namespace Sistem_Manajemen_Data_Gym
             }
         }
 
-        private void bindingNavigator1_RefreshItems(object sender, EventArgs e)
+        private void bindingNavigator1_RefreshItems(object sender, EventArgs e) 
         {
 
         }
