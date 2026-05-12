@@ -551,7 +551,7 @@ namespace Sistem_Manajemen_Data_Gym
                 if (row.Cells["status_aktif"].Value != null &&
                     row.Cells["status_aktif"].Value.ToString() == "Non-Aktif")
                 {
-                    row.DefaultCellStyle.BackColor = Color.MistyRose; // Warna merah muda untuk yang tidak aktif
+                    row.DefaultCellStyle.BackColor = Color.MistyRose;  // Warna merah muda untuk yang tidak aktif
                 }
             }
         }
