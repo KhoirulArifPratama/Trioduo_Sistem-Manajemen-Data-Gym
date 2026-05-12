@@ -402,7 +402,7 @@ namespace Sistem_Manajemen_Data_Gym
                         else
                         {
                             MessageBox.Show(
-                                "Data gagal diupdate!"
+                                "Data gagal diupdate!" 
                             );
                         }
                     }
