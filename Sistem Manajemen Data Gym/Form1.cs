@@ -289,7 +289,7 @@ namespace Sistem_Manajemen_Data_Gym
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Gagal menyimpan data: " + ex.Message);
+                MessageBox.Show("Gagal menyimpan data: " + ex.Message); 
             }
         }
 
